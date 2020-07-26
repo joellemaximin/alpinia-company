@@ -1,0 +1,12 @@
+.footer-page{
+    padding: 1.6em;
+    background-color: rgb(33, 31, 31);
+    color: #fff;
+    text-align: center;
+    display: flex;
+}
+
+.footer-page > p {
+    margin-left: 10em;
+    text-align: center;
+}

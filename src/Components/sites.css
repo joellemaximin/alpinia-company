@@ -1,0 +1,40 @@
+.variante{
+
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.global-variante{
+    text-align:center ;
+}
+
+h2{
+    display: inline-block;
+    background-color: cornsilk;
+    width: 100%;
+    padding: 1em;
+}
+
+
+.title{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+h3> span {
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+
+}
+span:after, span:before {
+    content: '';
+    background: #f1f1f1;
+    height: 1px;
+    flex: 0 0 20%;
+    
+    /* margin: 0 10px; */
+}
